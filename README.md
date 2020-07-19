@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋
+
+I am a Software Test Automation Engineer with 5 years of Industry Experience on various platforms such as Android, iOS & Web applications.
+
+> *Selenium | Appium | UI Automator | Espresso | XCUITest | REST API Testing | DevOps* 
+
+Well acquainted with all the phases of Software Development Life Cycle, Test Life Cycle and Bug Life Cycle.
+
+Skilled in testing at every phase of the testing process like Functional, Regression, UI, Acceptance, Ad-hoc, Back End and End-to-End testing.
+
 
 <!--
 **ArunSelvam11/ArunSelvam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
